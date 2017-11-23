@@ -33,6 +33,10 @@
 * [Aprendendo Git](http://www.slideshare.net/bismarckjunior/aprendendo-git)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 * [Pro Git](http://git-scm.com/book/pt-br)
+* [Guia prático de Git](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+* [Guia prático de Git flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
+
+
 
 
 ### Grunt
@@ -62,6 +66,7 @@
 * [Guia Rápido de Desenvolvimento para Firefox OS: Criando apps com HTML5 para o Firefox OS](https://leanpub.com/guiarapidofirefoxos)
 * [Node.js para Leigos](http://udgwebdev.com/nodejs)
 * [Tudo sobre Meteor](http://udgwebdev.com/meteor)
+* [Vue.js Documentação traduzida](https://br.vuejs.org/v2/guide/index.html)
 
 ### Php
 * [PHP](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf)
